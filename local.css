@@ -5,7 +5,7 @@ body {
 }
 
 .pageheader {
-    box-shadow: 0 0 5px 1px #000;
+    box-shadow: 0 0 8px #000;
     position:fixed;
     width:100%;
     top:0;
@@ -75,7 +75,7 @@ div.inset {
 div.inset-content {
     border:2px solid #17a54e;
     padding:15px;
-    box-shadow: 0 0 20px 2px #666 inset;
+    box-shadow: 0 0 8px #000 inset;
     font-size: medium;
     font-weight: normal;
     overflow-x:auto;
